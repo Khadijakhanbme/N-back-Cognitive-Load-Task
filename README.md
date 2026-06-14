@@ -1,5 +1,4 @@
 # N back Cognitive Load Task
-# fNIRS N-Back Cognitive Load Task
 
 A PsychoPy implementation of a block-design N-back working memory task developed for functional Near-Infrared Spectroscopy (fNIRS) experiments.
 
